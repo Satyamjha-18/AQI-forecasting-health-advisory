@@ -1,0 +1,6 @@
+City,LSTM_RMSE,LSTM_MAE,Naive_RMSE
+Delhi,37.2,28.7,46.0
+Lucknow,45.3,41.1,51.3
+Bengaluru,13.9,12.0,13.2
+Chennai,22.7,14.8,26.6
+Hyderabad,24.4,20.0,15.2
